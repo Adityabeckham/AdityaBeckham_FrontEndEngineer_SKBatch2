@@ -1,6 +1,6 @@
 import { useState } from "react";
 import { roles } from "../data/roles";
-import DepartmentFilter from "../components/DepartementFilter";
+import DepartmentFilter from "../components/DepartmentFilter";
 import RoleCard from "../components/RoleCard";
 import EmptyState from "../components/EmptyState";
 

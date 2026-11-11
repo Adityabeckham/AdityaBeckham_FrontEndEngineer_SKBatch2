@@ -1,18 +1,17 @@
-
 # Careerly - Role Explorer
 
-A responsive role explorer component built as part of the Sekolah Karir Front-End Engineer Mini Assignment.
+Aplikasi penjelajah lowongan kerja (role explorer) yang responsif, dibuat sebagai bagian dari Mini Assignment Front-End Engineer Intern Sekolah Karir Batch 2.
 
-## Features
+## Fitur
 
-- Filter job roles by department
-- Display all available roles by default
-- Dynamic result count
-- Empty state when no roles are available
-- Responsive layout for desktop, tablet, and mobile
-- Reusable React components
+- Filter lowongan berdasarkan departemen
+- Menampilkan semua lowongan secara default
+- Jumlah hasil dinamis
+- State kosong ketika tidak ada lowongan
+- Tata letak responsif untuk desktop, tablet, dan mobile
+- Komponen React yang dapat digunakan kembali
 
-## Tech Stack
+## Teknologi
 
 - React
 - Vite
@@ -20,51 +19,61 @@ A responsive role explorer component built as part of the Sekolah Karir Front-En
 - Tailwind CSS
 - Lucide React
 
-## Getting Started
+## Cara Menjalankan
 
-Clone the repository:
+Kloning repositori:
 
-    git clone 
-
-Navigate to the project:
-
+    git clone https://github.com/Adityabeckham/Mini-Assignment-Internsip
     cd careerly-role-explorer
 
-Install dependencies:
+Instal dependensi:
 
     npm install
 
-Run development server:
+Jalankan server pengembangan:
 
     npm run dev
 
-## Project Structure
+Build untuk produksi:
 
-src/
-- components/
-- data/
-- App.jsx
-- index.css
-- main.jsx
+    npm run build
 
-## PREVIEW
-- 
+## Struktur Folder
 
-## Referen Setup Taikwiildcss + vite
-- https://tailwindcss.com/docs/installation/using-vite
-- 
-## AI Usage Disclosure
+    careerly-role-explorer/
+    ├── public/
+    │   └── favicon.svg          # Ikon favicon aplikasi
+    ├── src/
+    │   ├── components/
+    │   │   ├── DepartmentFilter.jsx  # Tombol filter departemen
+    │   │   ├── EmptyState.jsx       # Tampilan saat tidak ada lowongan
+    │   │   ├── Header.jsx           # Header/navigasi aplikasi
+    │   │   ├── RoleCard.jsx         # Kartu detail satu lowongan
+    │   │   └── RoleExplorer.jsx     # Logika filter dan daftar lowongan
+    │   ├── data/
+    │   │   └── roles.js             # Data lowongan kerja
+    │   ├── App.jsx                  # Komponen utama aplikasi
+    │   ├── index.css                # Gaya global (Tailwind)
+    │   └── main.jsx                 # Titik masuk React
+    ├── index.html                   # Template HTML utama
+    ├── package.json                 # Dependensi dan skrip
+    ├── vite.config.js               # Konfigurasi Vite
+    └── README.md                    # Dokumentasi proyek
 
-AI Tool: Opencode
+## Workflow
+image.png
 
-Usage:
-- Assisted with technical planning and project structure.
-- Helped explain React state management and filtering logic.
-- Assisted with implementation guidance and code review.
+## Pengungkapan Penggunaan AI
 
-All implementation decisions and code are reviewed and
-understood by the candidate.
+Alat AI: Opencode
 
-## Author
+Penggunaan:
+- Membantu perencanaan teknis dan struktur proyek.
+- Menjelaskan manajemen state React dan logika filter.
+- Membantu panduan implementasi dan tinjauan kode.
+
+
+
+## Penulis
 
 Aditya Beckham
