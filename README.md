@@ -61,7 +61,8 @@ Build untuk produksi:
     └── README.md                    # Dokumentasi proyek
 
 ## Workflow
-image.png
+<img width="310" height="211" alt="Screenshot 2026-11-12 014741" src="https://github.com/user-attachments/assets/f0a1e113-6d2f-4c2e-aa1e-84ae050c1133" />
+
 
 ## Pengungkapan Penggunaan AI
 
