@@ -1,6 +1,6 @@
 # Careerly - Role Explorer
 
-Aplikasi penjelajah lowongan kerja (role explorer) yang responsif, dibuat sebagai bagian dari Mini Assignment Front-End Engineer Intern Sekolah Karir Batch 2.
+ Mini Assignment Front-End Engineer Intern Sekolah Karir Batch 2.
 
 ## Fitur
 
@@ -62,6 +62,9 @@ Build untuk produksi:
 
 ## Workflow
 <img width="500" height="350" alt="Screenshot 2026-11-12 014741" src="https://github.com/user-attachments/assets/f0a1e113-6d2f-4c2e-aa1e-84ae050c1133" />
+
+## Link Preview
+- https://role-explorer.netlify.app/
 
 
 ## Pengungkapan Penggunaan AI
