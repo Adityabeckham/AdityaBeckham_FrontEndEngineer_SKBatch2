@@ -24,7 +24,7 @@ A responsive role explorer component built as part of the Sekolah Karir Front-En
 
 Clone the repository:
 
-    git clone 
+    git clone https://github.com/Adityabeckham/Mini-Assignment-Internsip.git
 
 Navigate to the project:
 
