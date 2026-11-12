@@ -72,7 +72,6 @@ Build untuk produksi:
 Alat AI: Opencode
 
 Penggunaan:
-- Membantu perencanaan teknis dan struktur proyek.
 - Menjelaskan manajemen state React dan logika filter.
 - Membantu panduan implementasi dan tinjauan kode.
 
