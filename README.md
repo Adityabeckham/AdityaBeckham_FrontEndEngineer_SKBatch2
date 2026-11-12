@@ -23,7 +23,7 @@
 
 Kloning repositori:
 
-    git clone https://github.com/Adityabeckham/Mini-Assignment-Internsip
+    git clone https://github.com/Adityabeckham/AdityaBeckham_FrontEndEngineer_SKBatch2
     cd careerly-role-explorer
 
 Instal dependensi:
